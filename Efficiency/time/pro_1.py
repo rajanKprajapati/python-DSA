@@ -7,8 +7,8 @@ for i in range(1,101):
 """i=1
 while 1>=100:
     print(i)
-    i+=1
-end=time.time()  """  
+    i+=1"""
+end=time.time() 
 print(f"start time:{start} end time:{end}\n Total time taken={end-start}")
 
 #see the result and run multiple time and see the result and if we run this in defferent
